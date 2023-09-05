@@ -85,7 +85,7 @@ DATABASES = {
     #     'ENGINE': 'django.db.backends.mysql',
     #     'NAME': 'aboutPills_db',
     #     'USER': 'hansj',
-    #     'PASSWORD':'0568',
+    #     'PASSWORD':'',
     #     'HOST':'127.0.0.1',
     #     'PORT':'3306',
     # }
